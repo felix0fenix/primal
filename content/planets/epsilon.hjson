@@ -1,29 +1,29 @@
 localizedName: Epsilon
-description: A lush planet that has land and water.
+description: Planet covered with jungles and swamps, has a lot of rare earth minerals. An ideal place for a new colony. 
 alwaysUnlocked: true
 mesh: {
   type: NoiseMesh
-  planet: cangirus
-  seed: 69
+  planet: epsilon
+  seed: 52
   divisions: 5
-  color1: 4b64a9
+  color1: 55837a
   color2: 59b36a
-  radius: 1.2
-  octaves: 4
+  radius: 1.6
+  octaves: 5
   persistence: 1
-  scale: 0.75
+  scale: 0.60
   mag: 1
 }
 cloudMesh: {
   type: HexSkyMesh
-  planet: cangirus
-  seed: 15
+  planet: epsilon
+  seed: 13
   speed: 0.32
   radius: 0.08
-  divisions: 6
+  divisions: 7
   color: eafffd7e
   octaves: 3
-  persistence: 0.7
+  persistence: 0.8
   scl: 1
   thresh: 0.6
 }
