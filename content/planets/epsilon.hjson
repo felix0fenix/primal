@@ -19,11 +19,11 @@ cloudMesh: {
   planet: epsilon
   seed: 13
   speed: 0.6
-  radius: 0.7
+  radius: 0.6
   divisions: 7
   color: eafffd7e
   octaves: 3
-  persistence: 0.65
+  persistence: 0.85
   scl: 1
   thresh: 0.45
 }
