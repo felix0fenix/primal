@@ -18,14 +18,14 @@ cloudMesh: {
   type: HexSkyMesh
   planet: epsilon
   seed: 13
-  speed: 0.32
-  radius: 1.65
+  speed: 0.45
+  radius: 1.1
   divisions: 7
   color: eafffd7e
   octaves: 3
   persistence: 0.35
   scl: 1
-  thresh: 0.85
+  thresh: 0.35
 }
 generator: {
   type: PlanetGenerator
