@@ -19,7 +19,7 @@ cloudMesh: {
   planet: epsilon
   seed: 13
   speed: 0.32
-  radius: 0.16
+  radius: 1.9
   divisions: 7
   color: eafffd7e
   octaves: 3
