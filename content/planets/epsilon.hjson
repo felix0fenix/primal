@@ -55,7 +55,7 @@ drawOrbit: true
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
 accessible: false
-orbitRadius: 24
+orbitRadius: 36
 updateLighting: false
 sectorSeed: 69420
 bloom: false
