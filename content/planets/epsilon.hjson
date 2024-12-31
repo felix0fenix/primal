@@ -25,7 +25,7 @@ cloudMesh: {
   octaves: 3
   persistence: 0.85
   scl: 1
-  thresh: 0.45
+  thresh: 0.65
 }
 generator: {
   type: PlanetGenerator
@@ -48,9 +48,9 @@ allowLaunchSchematics: false
 allowLaunchLoadout: false
 allowSectorInvasion: true
 startSector: 0
-orbitSpacing: 4
+orbitSpacing: 6
 radius: 1.2
-minZoom: 1.5
+minZoom: 2.5
 drawOrbit: true
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
