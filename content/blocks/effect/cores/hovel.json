@@ -8,5 +8,6 @@
 
   "category": "effect",
   "unitType": "alpha",
-  "unitCapModifier": 10
+  "unitCapModifier": 10,
+  "shown": true
 }
