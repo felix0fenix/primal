@@ -8,5 +8,6 @@
   "category": "power",
   "unitType": "alpha",
   "unitCapModifier": 10,
-  "shown": true
+  "shown": true, 
+  "alwaysUnlocked": true
 }
