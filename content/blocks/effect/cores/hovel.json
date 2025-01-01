@@ -1,0 +1,12 @@
+{
+  "type": "CoreBlock",
+  "name": "Hovel",
+  "description": "Used as a emergency landing shuttle. It's made of some synthetic heat-resistant fabrics and aluminum alloys. Cant be recreated without powerful tech knowledge",
+  "size": 1,
+  "health": 1000,
+  "itemCapacity": 100,
+
+  "category": "effect",
+  "unitType": "alpha",
+  "unitCapModifier": 10
+}
