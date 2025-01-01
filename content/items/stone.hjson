@@ -1,4 +1,5 @@
 {
   "name": "Stone", 
-  "description": " A basic material used for stone age buildings and weapons."
+  "description": " A basic material used for stone age buildings and weapons.", 
+  "color": "d1c6cd"
 }
