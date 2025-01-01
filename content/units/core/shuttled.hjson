@@ -1,5 +1,5 @@
 type: legs
-legCount: 6
+legCount: 4
 legLength: 8
 legSpeed: 0.23
 legForwardScl: 0.56
@@ -7,7 +7,7 @@ legMoveSpace: 1.5
 hovering: true
 groundLayer: 60
 name: shuttled
-description: Defends the Essence core. Builds structures and mines ores.
+description: Defends the Hovel Core.
 health: 52
 armor: 1
 mineFloor: true
