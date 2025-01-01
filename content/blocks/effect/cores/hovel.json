@@ -5,8 +5,7 @@
   "size": 1,
   "health": 1000,
   "itemCapacity": 100,
-
-  "category": "effect",
+  "category": "other",
   "unitType": "alpha",
   "unitCapModifier": 10,
   "shown": true
