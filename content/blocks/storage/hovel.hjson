@@ -7,7 +7,7 @@ isFirstTier: true
 size: 2
 squareSprite: true
 alwaysUnlocked: true
-unitType: alpha
+unitType: shuttled
 health: 320
 itemCapacity: 100
 unitCapModifier: 10
