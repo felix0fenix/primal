@@ -38,10 +38,9 @@ generator: {
   max: 100
   radMin: 220
   radMax: 600
-  iceChance: 0.51
-  carbonChance: 0.32
+  mudChance: 0.51
   berylChance: 0
-  ferricChance: 0.26
+  dirtChance: 0.26
 }
 sectorSize: 1
 allowLaunchSchematics: false
