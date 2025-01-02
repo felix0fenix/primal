@@ -49,7 +49,7 @@ allowSectorInvasion: true
 startSector: 0
 orbitSpacing: 6
 radius: 1.2
-minZoom: 1.7
+minZoom: 0.8
 maxZoom: 3.5
 drawOrbit: true
 atmosphereRadIn: 0
@@ -71,5 +71,5 @@ defaultCore: core-shard
 parent: sun
 solarSystem: sun
 launchCandidates: []
-hiddenItems: ["beryllium", "carbide", "tungsten", "fissile-matter", "oxide"]
+itemWhitelist: ["stone"]
 allowLaunchToNumbered: false
