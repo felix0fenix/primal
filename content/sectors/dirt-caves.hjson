@@ -2,4 +2,5 @@ captureWave: 10
 planet: epsilon
 sector: 0
 difficulty: 1
-alwaysUnlocked: true
+alwaysUnlocked: true, 
+localizedName: Dirt Caves
