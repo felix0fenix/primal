@@ -11,7 +11,7 @@ consumes: {
   
 }
 output: wood
-attribute: grass
+attribute: wood
 ambientSound: drill
 ambientSoundVolume: 0.1
 squareSprite: true
