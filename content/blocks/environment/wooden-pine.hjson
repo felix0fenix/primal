@@ -1,0 +1,6 @@
+type: StaticWall
+name: Pine
+description: A fancy tree enjoying sun... 
+attributes: {
+  wood: 1
+}
