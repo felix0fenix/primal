@@ -1,0 +1,6 @@
+type: StaticTree
+name: Peaceful Pine
+description: A fancy tree enjoying sun... 
+attributes: {
+  wood: 1
+}
