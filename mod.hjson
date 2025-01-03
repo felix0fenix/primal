@@ -4,5 +4,5 @@ author: "51E0B2217540D831"
 description: "Small mod that expands game with realistic earlygame mechanics"
 version: "0.1"
 minGameVersion: "146"
-dependencies: [ ]
+dependencies: [multi-crafter"]
 hidden: false
