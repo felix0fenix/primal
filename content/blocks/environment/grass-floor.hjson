@@ -1,0 +1,4 @@
+type: Floor
+name: Grass
+description: Fancy grass that grows on sunny surfaces. 
+variants: 3
