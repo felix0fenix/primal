@@ -1,5 +1,5 @@
 type: StaticWall
-name: Pine
+name: Peacful Pine
 description: A fancy tree enjoying sun... 
 attributes: {
   wood: 1
