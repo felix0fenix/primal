@@ -8,25 +8,31 @@ health: 100
 category: crafting
 requirements: [
 ]
-recipes: [
+recipes: 
+[
     {
-        input: {
+        input: 
+        {
             items: scrap/10
             fluids: water/5
         }
-        output: {
+        output: 
+        {
             items: ancient-engine/1
             fluids: dirty-water/5
         }
         craftTime: 240
     }
 ]
-drawer: {
+drawer: 
+{
     type: multicraft.DrawRecipe
-    drawers: [
+    drawers: 
+    [
         {
             type: DrawMulti
-            drawers: [
+            drawers:
+            [
                 {
                     type: DrawRegion
                     suffix: "-bottom"
@@ -44,4 +50,5 @@ drawer: {
                 }
             ]
         }
-]
+    ]
+}
