@@ -1,7 +1,7 @@
 type: WallCrafter
 name: Wood Chopper
 description: Uses its powerful grinders on grass walls to produce wood. 
-size: 2
+size: 1
 category: production
 requirements: [
   
