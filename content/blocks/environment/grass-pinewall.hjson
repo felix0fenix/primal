@@ -1,0 +1,8 @@
+type: StaticTree
+name: Grass Wall
+hasShadow: false
+description: Stone covered with herbs... 
+variants: 2
+attributes: {
+  wood: 1
+}
