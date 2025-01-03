@@ -1,0 +1,47 @@
+localizedName: Scrap Deconstructor
+description: "Extracts old machine parts from scrap. Uses water to wash all ancient dirt."
+type: multicraft.MultiCrafter
+liquidCapacity: 10
+itemCapacity: 10
+size: 2
+health: 100
+category: crafting
+requirements: [
+]
+recipes: [
+    {
+        input: {
+            items: scrap/10
+            fluids: water/5
+        }
+        output: {
+            items: ancient-engine/1
+            fluids: dirty-water/5
+        }
+        craftTime: 240
+    }
+]
+drawer: {
+    type: multicraft.DrawRecipe
+    drawers: [
+        {
+            type: DrawMulti
+            drawers: [
+                {
+                    type: DrawRegion
+                    suffix: "-bottom"
+                }
+                {
+                    type: DrawLiquidTile
+                    drawLiquid: water
+                }
+                {
+                    type: DrawDefault
+                }
+                {
+                    type: DrawRegion
+                    suffix: "-top"
+                }
+            ]
+        }
+]
