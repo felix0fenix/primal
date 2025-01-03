@@ -6,7 +6,7 @@ category: production
 requirements: [
   
 ]
-drillTime: 60
+drillTime: 120
 consumes: {
   
 }
