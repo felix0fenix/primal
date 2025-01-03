@@ -1,0 +1,18 @@
+type: WallCrafter
+name: Wood Chopper
+description: Uses its powerful grinders on grass walls to produce wood. 
+size: 2
+category: production
+requirements: [
+  
+]
+drillTime: 60
+consumes: {
+  
+}
+output: wood
+attribute: grass
+ambientSound: drill
+ambientSoundVolume: 0.1
+squareSprite: true
+researchCostMultiplier: 0.5
