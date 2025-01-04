@@ -18,8 +18,8 @@ recipes:
         }
         output: 
         {
-            items: primal-mod-ancient-engine/1
-            fluids: primal-mod-dirty-water/10            
+            items: primal-ancient-engine/1
+            fluids: primal-dirty-water/10            
         }
         craftTime: 240
     }
