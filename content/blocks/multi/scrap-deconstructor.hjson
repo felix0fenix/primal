@@ -11,6 +11,7 @@ requirements: [
   scrap/30
   primal-scrap-plate/5
 ]
+ambientSound: spray
 recipes: 
 [
     {
