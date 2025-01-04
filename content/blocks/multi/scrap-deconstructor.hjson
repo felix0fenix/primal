@@ -14,12 +14,12 @@ recipes:
         input: 
         {
             items: scrap/10
-            fluids: water/5
+            fluids: water/0.25
         }
         output: 
         {
             items: primal-ancient-engine/1
-            fluids: primal-dirty-water/10            
+            fluids: primal-dirty-water/0.25      
         }
         craftTime: 240
     }
