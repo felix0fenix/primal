@@ -18,8 +18,8 @@ recipes:
         }
         output: 
         {
-            items: ancient-engine/1
-            fluids: dirty-water/5
+            items: wood/1
+            
         }
         craftTime: 240
     }
