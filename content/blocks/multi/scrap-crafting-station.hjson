@@ -1,1 +1,26 @@
-
+localizedName: Scrap Crafting Station
+description: "Used to craft ancient machine parts and scrap parts."
+type: multicraft.MultiCrafter
+hasLiquid: false
+itemCapacity: 10
+size: 2
+health: 100
+category: crafting
+requirements: [
+  graphite/40
+  scrap/50
+]
+recipes: 
+[
+    {
+        input: 
+        {
+            items: scrap/4
+        }
+        output: 
+        {
+            items: primal-scrap-plate/1     
+        }
+        craftTime: 120
+    }
+]
