@@ -1,3 +1,4 @@
 name: Dirty Water
 description: "You shoudnt drink this... "
 color: 535b70
+type: CellLiquid
