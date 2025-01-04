@@ -1,0 +1,38 @@
+type: Pump
+name: Ancient Pump
+description: "A pump made using ancient motors and scrap. Extremely slow."
+hasLiquids: true
+liquidCapacity: 25
+size: 1
+consumes:
+{
+  power: 1.6 
+}
+pumpAmount: 1
+category: liquid
+requirements: 
+[
+  graphite/15
+  primal-ancient-pump/2
+  primal-scrap-plate/20
+  primal-ancient-gear/4
+]
+drawer: 
+{
+  type: DrawMulti
+  drawers: 
+  [
+  {
+    type: DrawRegion
+    suffix: -bottom
+  }
+  {
+    type: DrawLiquidRegion
+    drawLiquid: water
+  }
+  {
+    type: DrawDefault
+  }
+  ]
+}
+squareSprite: false
