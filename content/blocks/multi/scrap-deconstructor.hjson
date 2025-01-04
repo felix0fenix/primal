@@ -7,6 +7,8 @@ size: 2
 health: 100
 category: crafting
 requirements: [
+  graphite/25
+  scrap/30
 ]
 recipes: 
 [
