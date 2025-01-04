@@ -1,0 +1,21 @@
+type: GenericCrafter
+name: Water Vent
+description: "Slowly collects water from air"
+health: 100
+size: 2
+hasLiquids: true
+liquidCapacity: 25
+consumes:
+{
+}
+craftTime: 240
+output:
+{
+  fluids: water/1
+}
+category: production
+requirements:
+[
+  scrap/25
+  graphite/35
+]
