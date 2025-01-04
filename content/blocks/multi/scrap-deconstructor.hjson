@@ -18,7 +18,7 @@ recipes:
         }
         output: 
         {
-            items: wood/1
+            items: copper/1
             
         }
         craftTime: 240
