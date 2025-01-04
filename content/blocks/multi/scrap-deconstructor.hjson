@@ -9,6 +9,7 @@ category: crafting
 requirements: [
   graphite/25
   scrap/30
+  primal-scrap-plate/5
 ]
 recipes: 
 [
@@ -21,6 +22,19 @@ recipes:
         output: 
         {
             items: primal-ancient-engine/1
+            fluids: primal-dirty-water/0.25      
+        }
+        craftTime: 240
+    }
+    {
+        input: 
+        {
+            items: scrap/5
+            fluids: water/0.25
+        }
+        output: 
+        {
+            items: primal-ancient-gear/1
             fluids: primal-dirty-water/0.25      
         }
         craftTime: 240
