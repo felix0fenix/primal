@@ -5,14 +5,8 @@ health: 100
 size: 2
 hasLiquids: true
 liquidCapacity: 25
-consumes:
-{
-}
 craftTime: 240
-output:
-{
-  fluids: water/1
-}
+outputLiquid: water/1
 category: production
 requirements:
 [
