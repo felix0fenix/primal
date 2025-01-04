@@ -4,6 +4,7 @@ description: "Slowly collects water from air"
 health: 100
 size: 2
 hasLiquids: true
+hasItems: false
 liquidCapacity: 25
 craftTime: 720
 outputLiquid: water/0.05
