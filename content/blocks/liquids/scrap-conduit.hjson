@@ -1,0 +1,12 @@
+type: Conduit
+name: Scrap Conduit
+description: Transports liquids forward.
+category: liquid
+requirements: [
+  primal-scrap-plate/3
+]
+health: 10
+leaks: false
+//junctionReplacement: 
+//bridgeReplacement: 
+underBullets: true
